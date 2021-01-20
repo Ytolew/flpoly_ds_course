@@ -1,23 +1,23 @@
-## First Name Last Name
+## Sanjay Tomlinson
 
-### Term Year 
+### SP 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Statistical Learning 
 
-- Course 3
+- Data Structures and Algorithms
 
-- Course 4
+- Intro to Computer Networks
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading
 
-- Thing 2
+- Cooking 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coding Algorithims to Save Lives <https://www.floridapoly.edu>
