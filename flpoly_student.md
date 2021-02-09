@@ -22,7 +22,7 @@ I am _passionate about_:
 
 - Coding Algorithims to Save Lives <https://www.floridapoly.edu>
 
-#Course Schedule
+# Course Schedule
 
 |Prefix |Number   |Credit|Class                         |
 |:-----:|:-------:|:----:|:----------------------------:|
