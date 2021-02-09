@@ -21,3 +21,12 @@ I am _passionate about_:
 - Cooking 
 
 - Coding Algorithims to Save Lives <https://www.floridapoly.edu>
+
+#Course Schedule
+
+|Prefix |Number   |Credit|Class                         |
+|:-----:|:-------:|:----:|:----------------------------:|
+|**COP**|**2073** |   3  |*Intro to Data Science*       |
+|**CNT**|**3004C**|   3  |*Intro to Computer Networks*  |
+|**COP**|**3530** |   3  |*Data Structures & Algorithms*|
+|**STA**|**3241** |   3  |*Statistical Learning*        |
